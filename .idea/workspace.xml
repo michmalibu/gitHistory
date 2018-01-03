@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06734085-134a-4d2c-8780-418c27217ce4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gitHistory.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/awesome.txt" afterPath="$PROJECT_DIR$/awesome.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancystuff.txt" afterPath="$PROJECT_DIR$/fancystuff.txt" />
-    </list>
+    <list default="true" id="06734085-134a-4d2c-8780-418c27217ce4" name="Default" comment="" />
     <ignored path="gitHistory.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -140,12 +131,12 @@
       <updated>1513298187480</updated>
       <workItem from="1513298188793" duration="815000" />
       <workItem from="1514929732439" duration="332000" />
-      <workItem from="1514930420931" duration="286000" />
+      <workItem from="1514930420931" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1433000" />
+    <option name="totallyTimeSpent" value="1875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="955" extended-state="6" />
