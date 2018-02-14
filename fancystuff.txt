@@ -7,5 +7,6 @@ update fancystuff.txt on 1/9/2018
 updated fancystuff.txt on 2/2/2018 #1
 updated fancystuff.txt on 2/2/2018 #2
 updated fancystuff.txt on 2/11/2018 #1
-updated 2/13/2018 #1
-updated 2/13/2018 #2
+https://try.github.io/levels/1/challenges/1
+https://try.github.io/levels/1/challenges/
+updated 2/14/2014 #1
